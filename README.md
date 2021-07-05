@@ -17,7 +17,7 @@ Under this assumption, the second question we are answering can be rephrased as:
 ## Topics Covered
 1. Data collection and parsing from CSV files using Python.
 2. Data cleaning:
-    a. Browsing forums to see if data has any mistakes.
-    b. Finding and handling duplicate data.
-    c. Filtering out data that does not fall under our scope (free-to-download, English-language).
+    * Browsing forums to see if data has any mistakes.
+    * Finding and handling duplicate data.
+    * Filtering out data that does not fall under our scope (free-to-download, English-language).
 3. Basic data analysis using frequency tables.
